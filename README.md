@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  -->
- <h1 align="center">Hi 👋, I'm Pavan Venkata Saideep</h1>
-<h3 align="center">A B.Tech Undergrad and an aspiring Web Devloper.</h3>
+ <h1>Hi 👋, I'm Pavan Venkata Saideep</h1>
+<h3>A B.Tech Undergrad and an aspiring Software Developer.</h3>
 
 - 🌱 I’m currently learning **Full-Stack Web development**
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full-Stack Web development**
 
-- 📫 How to reach me **m.p.v.saideep@gmail.com**
+- 📫 Reach me at: **m.p.v.saideep@gmail.com**
 
 <p align="left">
 </p>
